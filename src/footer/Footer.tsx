@@ -13,7 +13,7 @@ function Footer() {
                     <div className={style.text}></div>
                     <div className={style.text}></div>
                 </div>
-                <h4> © 2022 Светлана Красноносеньких, по всем вопросам пишите по адресу svetik_palchik81@gmail.com</h4>
+                <h4> © 2022 Светлана Красноносеньких, по всем вопросам пишите по адресу svetik.palchik81@gmail.com</h4>
             </div>
         </div>
     );
