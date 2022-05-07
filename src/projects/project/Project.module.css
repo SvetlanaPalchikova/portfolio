@@ -1,0 +1,24 @@
+
+.project{
+    width: 300px;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.icon {
+    width: 300px;
+    height: 200px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.description {
+
+}
+.button {
+    background-color: dimgray;
+    width: 60px;
+}

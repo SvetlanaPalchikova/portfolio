@@ -1,0 +1,32 @@
+.footerBlock {
+    height: 200px;
+    background-color: skyblue ;
+    display: flex;
+    justify-content: center;
+}
+
+.footerNavContainer {
+    width: 80%;
+    height:100%;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.footerNav {
+    width: 350px;
+    height:50px;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.text {
+    width: 50px;
+    height: 50px;
+    background-color: dimgray;
+}
